@@ -5,7 +5,7 @@ import 'package:http/http.dart' as http;
 import 'package:audioplayers/audioplayers.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-const String serverUrl = 'http://192.168.100.2:3000';
+const String serverUrl = 'http://130.61.104.159:3000';
 
 void main() {
   runApp(MonitorApp());
